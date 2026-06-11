@@ -1,6 +1,10 @@
-# DashScope 模型代理
+# 阿里云模型代理
 
-基于 Hono.js 的反向代理服务，同时支持 DashScope Anthropic 兼容接口和 OpenAI 兼容接口。客户端只需一个代理地址和一个代理密钥，真实 DashScope API Key 和模型池均在服务端隐藏管理。当 DashScope 返回免费额度耗尽错误时，代理自动切换模型。
+基于 Hono.js 的反向代理服务，同时支持阿里云 DashScope Anthropic 兼容接口和 OpenAI 兼容接口。客户端只需一个代理地址和一个代理密钥，真实 DashScope API Key 和模型池均在服务端隐藏管理。当免费额度耗尽时，代理自动切换模型。
+
+> 阿里云 DashScope 每个模型提供 **1000 万免费 tokens**，通过模型池聚合多个模型，可最大化利用免费额度。
+
+![模型试用明细](image.png)
 
 ## 功能
 

@@ -6,3 +6,4 @@ release.zip
 data/
 *.log
 .DS_Store
+.qoder/
