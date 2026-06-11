@@ -67,7 +67,6 @@ qwen3.6-plus-2026-04-02
 
 - [使用说明](docs/usage.md)
 - [状态文件说明](docs/state-file.md)
-- [Q/A 与方案决策记录](docs/qa-and-decisions.md)
 
 ## 快速开始
 
