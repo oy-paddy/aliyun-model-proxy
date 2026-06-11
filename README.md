@@ -24,19 +24,25 @@
 ## 模型池
 
 > 截至 2026 年 6 月 11 日，以下模型均提供 **1000 万免费 tokens**，额度用完后代理自动切换至下一个可用模型，客户端无感知。
+>
+> 开通地址：[阿里云百炼控制台 - 模型试用](https://bailian.console.aliyun.com/)
+>
+> 活动地址：[Qwen3 免费额度活动](https://www.aliyun.com/benefit/client/qwen3)
 
 当前配置的模型 ID：
 
 ```text
-deepseek-v4-flash
-deepseek-v4-pro
 qwen3.7-max-2026-06-08
 qwen3.7-plus-2026-05-26
 qwen3.7-plus
 qwen3.7-max-preview
-qwen3.7-max-2026-05-17
 qwen3.7-max
 qwen3.7-max-2026-05-20
+glm-5.1
+kimi-k2.6
+qwen3.7-max-2026-05-17
+deepseek-v4-flash
+deepseek-v4-pro
 qwen3.6-27b
 qwen3.6-max-preview
 qwen3.6-flash
