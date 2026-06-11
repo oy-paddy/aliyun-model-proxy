@@ -58,6 +58,8 @@ CORS_ORIGIN=*
 pnpm dev
 ```
 
+![启动日志](run-image.png)
+
 生产模式：
 
 ```bash
